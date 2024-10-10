@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Script for reading topography (geotiff) and write for
+FemTic.
 
-This is a temporary script file.
+Authors:
+S. Byrdina
+V. Rath
 
 """
 
